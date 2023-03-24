@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://xata_examples-hf8grf.eu-west-1.xata.sh/db/sveltekit_auth",
+  "codegen": {
+    "output": "src/lib/xata.codegen.server.ts"
+  }
+}
